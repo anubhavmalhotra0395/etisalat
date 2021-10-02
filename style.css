@@ -6544,6 +6544,7 @@ margin-top: 0px;
 #carouselExampleCaptions2
 {
     padding-top:0px;
+    margin-top:-15px;
     position:relative;
     display:block;
     z-index:0;
